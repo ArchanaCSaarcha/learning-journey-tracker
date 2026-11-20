@@ -1,0 +1,52 @@
+[
+  {
+    "id": "f8b1c717-f9c8-4791-a70a-d6a3e8714ee5",
+    "title": "Learn React",
+    "description": "Complete React fundamentals and build projects",
+    "userId": "c5b9d2c9-e328-433a-9baa-732347135dec",
+    "completed": false,
+    "createdAt": "2026-11-17T10:10:46.199Z",
+    "startDate": "",
+    "targetDate": ""
+  },
+  {
+    "id": "c326d65a-9a60-46a9-a1ae-ca81f62a4d07",
+    "title": "Learn React",
+    "description": "Complete React fundamentals and build projects",
+    "userId": "c5b9d2c9-e328-433a-9baa-732347135dec",
+    "completed": false,
+    "createdAt": "2026-11-17T10:11:24.505Z",
+    "startDate": "",
+    "targetDate": ""
+  },
+  {
+    "id": "bee4bc20-5278-492a-9548-cc2126162812",
+    "title": "Learn MERN Stack",
+    "description": "Learn MongoDB, Express, React and Node.js",
+    "userId": "c5b9d2c9-e328-433a-9baa-732347135dec",
+    "completed": false,
+    "createdAt": "2026-11-17T13:43:32.8Z",
+    "startDate": "",
+    "targetDate": ""
+  },
+  {
+    "id": "9d5af9e7-69b0-4bb8-a533-24334d7c71f5",
+    "title": "Sample goal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "startDate": "2026-11-21",
+    "targetDate": "2026-11-23",
+    "userId": "0a21320d-1962-4372-af1f-fe72065293b0",
+    "completed": false,
+    "createdAt": "2026-11-20T05:12:21.437Z"
+  },
+  {
+    "id": "a4ab0b1a-47dc-48f1-859e-6d674d94b980",
+    "title": "new goal",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "startDate": "2026-11-23",
+    "targetDate": "2026-11-25",
+    "userId": "0a21320d-1962-4372-af1f-fe72065293b0",
+    "completed": false,
+    "createdAt": "2026-11-20T07:42:25.184Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f88baccb-4790-497f-9f91-630246c84d0d",
+    "name": "React Fundamentals",
+    "description": "Learn React basics and hooks",
+    "goalId": "f8b1c717-f9c8-4791-a70a-d6a3e8714ee5",
+    "userId": "c5b9d2c9-e328-433a-9baa-732347135dec",
+    "createdAt": "2026-11-18T05:11:33.950Z"
+  },
+  {
+    "id": "dbcd30cf-aa7c-4e46-afd1-e150efefad31",
+    "name": "Sample Subject",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "goalId": "9d5af9e7-69b0-4bb8-a533-24334d7c71f5",
+    "userId": "0a21320d-1962-4372-af1f-fe72065293b0",
+    "createdAt": "2026-11-20T05:13:40.835Z"
+  },
+  {
+    "id": "7777b3f9-cd0e-4989-85ad-8a6b83385eb1",
+    "name": "sample sub",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "goalId": "9d5af9e7-69b0-4bb8-a533-24334d7c71f5",
+    "userId": "0a21320d-1962-4372-af1f-fe72065293b0",
+    "createdAt": "2026-11-20T07:46:34.001Z"
+  }
+]

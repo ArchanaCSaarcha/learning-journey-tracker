@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  /* Pinterest Pin: Color Pallete Of Green */
+  /* #0F2A1D (Deep Pine) | #375534 (Forest Moss) | #6B9071 (Sage Foliage) | #AEC3B0 (Celadon Mist) | #E3EED4 (Matcha Cream) */
+  --color-pine: #0F2A1D;
+  --color-forest: #375534;
+  --color-forest-hover: #294226;
+  --color-sage: #6B9071;
+  --color-celadon: #AEC3B0;
+  --color-matcha: #E3EED4;
+  --color-matcha-light: #F4F8EE;
+
+  /* Forest & Matcha Brand Scale */
+  --color-brand-950: #08160F;
+  --color-brand-900: #0F2A1D;
+  --color-brand-800: #213B20;
+  --color-brand-700: #375534;
+  --color-brand-600: #4B7347;
+  --color-brand-500: #6B9071;
+  --color-brand-400: #8CA992;
+  --color-brand-300: #AEC3B0;
+  --color-brand-200: #CBE0BD;
+  --color-brand-100: #E3EED4;
+  --color-brand-50: #F4F8EE;
+
+  /* Seamless purple alias mapping to green palette */
+  --color-purple-950: #08160F;
+  --color-purple-900: #0F2A1D;
+  --color-purple-800: #213B20;
+  --color-purple-700: #375534;
+  --color-purple-600: #4B7347;
+  --color-purple-500: #6B9071;
+  --color-purple-400: #8CA992;
+  --color-purple-300: #AEC3B0;
+  --color-purple-200: #CBE0BD;
+  --color-purple-100: #E3EED4;
+  --color-purple-50: #F4F8EE;
+}
+
+body {
+  background-color: #F4F8EE;
+  color: #0F2A1D;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}

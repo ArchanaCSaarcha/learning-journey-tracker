@@ -1,0 +1,51 @@
+[
+  {
+    "id": "c5b9d2c9-e328-433a-9baa-732347135dec",
+    "name": "Archana",
+    "email": "archana@gmail.com",
+    "password": "$2b$10$zmV/Flt4mNEMYUB11tVjw./7L.Pg1iRsduZYL9iu.5E/Ry6BX6Vl2",
+    "createdAt": "2026-11-17T08:58:20.519Z"
+  },
+  {
+    "id": "b17f366d-3cb7-4b9a-91ae-d89f57fb8126",
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "password": "$2b$10$dmcvTU9ayvAGp63F1SobgeBgDxlabHoIwDI/yu4EZdJF5QxJ2Rava",
+    "createdAt": "2026-11-18T06:11:35.247Z"
+  },
+  {
+    "id": "e0e2fd8f-406a-4601-a2b6-b0892fce5f04",
+    "name": "Test User",
+    "email": "invalidemail",
+    "password": "$2b$10$otcDpak8/VVu8Ip/zRj0Ce3HBOYbCdRI1iUSzIpxXWFWRGIdRev7y",
+    "createdAt": "2026-11-18T06:21:35.884Z"
+  },
+  {
+    "id": "bf7d7ed2-df77-4352-a9f9-b2e78bb0b8ff",
+    "name": "Validation Test",
+    "email": "validationtest@example.com",
+    "password": "$2b$10$I1ESEZtS8z3VJOj8AT8QT.nJeQRgBc7uKtnUO6P3.H6c58Lagg04C",
+    "createdAt": "2026-11-18T06:26:23.985Z"
+  },
+  {
+    "id": "1a6fadcc-b456-4666-befe-a1387680d1f7",
+    "name": "New Email Test",
+    "email": "  NEWEMAILTEST@EXAMPLE.COM  ",
+    "password": "$2b$10$tN1pXzb4.8Zv2a1tKFa4xeCVe0yZMz4ShWl/MIafJxzCPVkpnoBEa",
+    "createdAt": "2026-11-18T06:32:41.867Z"
+  },
+  {
+    "id": "0a21320d-1962-4372-af1f-fe72065293b0",
+    "name": "Archana CS",
+    "email": "aarcha238@gmail.com",
+    "password": "$2b$10$P7sebfFGmfAOa61O6dFGh.URmNZ3mhkM/6958qB4nzAPNmQOSDAl2",
+    "createdAt": "2026-11-18T06:56:31.995Z"
+  },
+  {
+    "id": "730edbed-2a17-4432-ae43-7df4ad3d4d0e",
+    "name": "Archana CS",
+    "email": "archana238@gmail.com",
+    "password": "$2b$10$9ak6sRpkIrwLj/oscRrE.e0FHn.ZH2wbcYdvLG3Bi4vc5V/C.zG5G",
+    "createdAt": "2026-11-18T12:31:48.140Z"
+  }
+]
